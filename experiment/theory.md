@@ -141,9 +141,11 @@ $$I_B=ϕ(V_{BE},V_{CE}) for constant V_{CE}$$
 
 The most important characteristic of the BJT is the plot of the collector current, I<sub>C</sub>, versus the collector-emitter voltage, V<sub>CE</sub>, for various values of the base current, IB as shown on the circuit on the right.
 
-$$I_C=ϕ(V_{CE},I_B) for constant I_B$$
+$$I_C=ϕ(V_{CE},I_B)  for constant I_B$$
 
 <div align="center">
 <img src="images/bjtcet5.png" width="50%">
 <p>Figure 5: Output Characteristics Circuit  </p>
-</div
+</div>
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
